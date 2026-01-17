@@ -1,4 +1,7 @@
-(https://github.com/Ekman96/qa-automation-observability-kit/actions/workflows/test.yml/badge.svg)
+![tests](https://github.com/Ekman96/qa-automation-observability-kit/actions/workflows/test.yml/badge.svg)
+
+
+
 
 # QA Automation Observability Kit
 
